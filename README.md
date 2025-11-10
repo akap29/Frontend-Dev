@@ -1,4 +1,4 @@
-# Web Development Learning Journal
+# Web Development Learning
 
 A personal journey documenting my daily progress, projects, and reflections while mastering web development — from HTML to CSS, Bootstrap, and beyond.
 

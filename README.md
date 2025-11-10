@@ -1,121 +1,195 @@
-# 🧠 Web Development Learning Journal
+# Web Development Learning Journal
 
-Welcome to my **Web Development Learning Journey**!  
-This repository contains my daily learning progress, tasks, and reflections as I explore the world of web development — from HTML to CSS and beyond 🚀
-
----
-
-## 📅 **Day 1 — Introduction to Web Development**
-
-> **Date:** _09/10/2025_  
-> **Topic:** Introduction to Web Development & HTML Basics
-
-### 🧩 What I Learned
-
-- 🌐 **3-Tier Architecture:** Frontend, Backend, and Database
-- 🧱 **HTML Basics:** Headings, Paragraphs, Tables, and Images
-- 💻 **Environment Setup:** Installed **VS Code** and used **Live Server** to preview web pages
-- 🔍 **Concepts Covered:** Localhost, Ports, and Rendering pages via IP address
-
-### 🧪 Task for the Day
-
-> Create a **timetable** using the `<table>` tag in HTML.  
-> Run it on **Live Server** to view how it renders in the browser.
-
-### 🧭 What’s Next
-
-> Next, we’ll explore **HTML Block and Inline Elements**, **Attributes**, **Headings**, **Paragraphs**, **Tables**, **Dropdowns**, **Quotations**, **Lists**, **Blocks**, and **Layout** in detail.
+A personal journey documenting my daily progress, projects, and reflections while mastering web development — from HTML to CSS, Bootstrap, and beyond.
 
 ---
 
-## 📅 **Day 2 — Deep Dive into HTML Elements**
+## Day 1 – Introduction to Web Development
 
-> **Date:** _10/10/2025_  
-> **Topic:** Advanced HTML Elements and Forms
+**Date:** 09/10/2025
+**Topic:** Introduction to Web Development & HTML Basics
 
-### 🧩 What I Learned
+### What I Learned
 
-- 🔹 **Block and Inline Elements**
-- 🔹 **HTML Attributes**
-- 🔹 **Headings, Paragraphs, Tables, Dropdowns, Lists, and Layouts**
-- 🏃 **Practical Tags:** Learned about the `<marquee>` tag
-- 🧾 **HTML Forms:** Explored different input types for collecting user data
+* 3-Tier Architecture: Frontend, Backend, and Database
+* HTML Basics: Headings, Paragraphs, Tables, and Images
+* Setup: Installed VS Code and used Live Server
+* Concepts: Localhost, Ports, and IP Rendering
 
-### 🎯 Task for the Day
+### Task
 
-> Create an **HTML form** using various input types such as text, email, password, radio buttons, and checkboxes.
+Create a timetable using the `<table>` tag and preview it using Live Server.
 
-### 🧭 What’s Next
+### Next Up
 
-> Next, we’ll begin **CSS**, learning how to style web pages and improve the look and feel of HTML elements.
-
----
-
-## 📅 **Day 3 — Introduction to CSS**
-
-> **Date:** _13/10/2025_  
-> **Topic:** Introduction to CSS & Styling Basics
-
-### 🧩 What I Learned
-
-- 🎨 **CSS Basics:** Syntax, Structure, and Application Methods (Inline, Internal, External)
-- 🧭 **Selectors & Colors:** Learned how to style elements using different types of selectors and color properties
-- 📦 **Box Model:** Understood **margin**, **padding**, **border**, and **content** relationships
-- 🧱 **Display & Layout:** Explored `inline`, `block`, and `inline-block` elements
-- ⚙️ **Positioning:** Learned about **relative**, **absolute**, and **fixed** positioning concepts
-
-### 🧪 Task for the Day
-
-> Design a simple **webpage** using **internal** and **external CSS**, applying background colors, margins, padding, and element positioning.
-
-### 🧭 What’s Next
-
-> Next, we’ll learn about **Flexbox** and **Grid** for advanced layouts and responsive designs.
+Explore HTML Elements — Attributes, Layouts, Lists, Dropdowns, and more.
 
 ---
 
-## 📅 **Day 4 — Flexbox, Grid & Advanced CSS**
+## Day 2 – Advanced HTML & Forms
 
-> **Date:** _30/10/2025_  
-> **Topic:** CSS Flexbox, Grid & Visual Enhancements
+**Date:** 10/10/2025
+**Topic:** HTML Elements & Form Handling
 
-### 🧩 What I Learned
+### What I Learned
 
-- 🧱 **Flexbox & Grid:** Revised layout systems for efficient page structure
-- 📦 **Box Model (Advanced):** Practiced with borders, padding, height, and width adjustments
-- 🌈 **Visual Styling:** Applied **gradients**, **shadows**, and **transformations** for better UI aesthetics
-- 🎯 **Selectors:** Explored **combinators** and **pseudo-classes** for targeted styling
+* Block vs Inline Elements
+* Attributes, Headings, Paragraphs, and Lists
+* Layouts using Tables and Dropdowns
+* Explored the `<marquee>` tag
+* Built forms using various input types
 
-### 🧪 Task for the Day
+### Task
 
-> Design a **simple Calculator Layout** using **CSS Grid**, implementing gradients and box shadows to enhance the UI.
+Create a user form using text, email, password, radio, and checkbox inputs.
 
-### 🧭 What’s Next
+### Next Up
 
-> Next, we’ll explore **Responsive Design** techniques and start learning about **CSS Media Queries** and **Transitions/Animations**.
+Begin CSS — Styling fundamentals, selectors, and color systems.
+
+---
+
+## Day 3 – Introduction to CSS
+
+**Date:** 13/10/2025
+**Topic:** CSS Basics & Styling Techniques
+
+### What I Learned
+
+* CSS Syntax and Structure
+* Inline, Internal, and External CSS
+* Selectors and Color Properties
+* Box Model: Margin, Padding, Border, and Content
+* Display Types: inline, block, inline-block
+* Positioning: relative, absolute, fixed
+
+### Task
+
+Build a webpage using internal and external CSS, applying colors, margins, and positioning.
+
+### Next Up
+
+Learn Flexbox and Grid layouts for responsive design.
 
 ---
 
-## 📅 **Day 5 — CSS Pseudo-classes, Animations & Transitions**
+## Day 4 – Flexbox, Grid & Advanced CSS
 
-> **Date:** _31/10/2025_  
-> **Topic:** CSS Pseudo-classes, Tooltips, Animations, Transitions, Transform Properties & Box Sizing
+**Date:** 30/10/2025
+**Topic:** CSS Flexbox, Grid & Visual Design Enhancements
 
-### 🧩 What I Learned
+### What I Learned
 
-- 🎨 **Pseudo-classes:** Styled elements dynamically on hover, focus, and active states
-- 💬 **Tooltips:** Created informative hover-based tooltips using `position` and `visibility`
-- ⚙️ **Animations & Transitions:** Learned how to animate movement and visual effects
-- 🔄 **Transform Properties:** Practiced with `translate()`, `rotate()`, and `scale()`
-- 🧩 **Box Sizing & UI Styling:** Controlled layout consistency using `box-sizing: border-box`
-- 🧱 **Selectors & Buttons:** Enhanced interaction and aesthetics through advanced CSS selectors
+* Flexbox and Grid for modern layouts
+* Advanced Box Model usage
+* Visual enhancements with gradients, shadows, and transforms
+* Selectors using combinators and pseudo-classes
 
-### 🧪 Task for the Day
+### Task
 
-> Design an **animation** that moves an element **diagonally** using **transition** and **transform properties** to better understand CSS animation effects.
+Create a calculator layout using CSS Grid with gradients and box shadows.
 
-### 🧭 What’s Next
+### Next Up
 
-> Next, we’ll start with **Responsive CSS**, covering **Filters**, **Responsive Web Design Principles**, and **CSS Media Queries** to make web pages adaptable to different screen sizes.
+Learn Responsive Design, Media Queries, and CSS Animations.
 
 ---
+
+## Day 5 – Animations & Transitions
+
+**Date:** 31/10/2025
+**Topic:** CSS Pseudo-classes, Animations & Transformations
+
+### What I Learned
+
+* Pseudo-classes: hover, focus, active
+* Custom tooltips using position and visibility
+* Animations and Transitions for interactive design
+* Transform functions: translate, rotate, scale
+* Box-sizing: border-box for layout consistency
+
+### Task
+
+Animate an element diagonally using transition and transform properties.
+
+### Next Up
+
+Explore Responsive Design, Filters, and Media Queries.
+
+---
+
+## Day 6 – Responsive CSS & Media Queries
+
+**Date:** 03/11/2025
+**Topic:** Filters, Responsive Design & Media Queries
+
+### What I Learned
+
+* Responsive Design Principles
+* CSS Filters: blur, brightness, contrast
+* Media Queries with different breakpoints
+* Flexible Units: %, vh, vw, em, rem
+* Tested layouts on multiple devices
+
+### Task
+
+Build a responsive card UI containing an image, title, and text with hover transitions.
+
+### Next Up
+
+Begin Bootstrap — mastering grids, utilities, and prebuilt components.
+
+---
+
+## Day 7 – Introduction to Bootstrap
+
+**Date:** 05/11/2025
+**Topic:** Bootstrap Basics, Grid System & Utilities
+
+### What I Learned
+
+* Overview of Bootstrap and its purpose
+* Containers, Rows, and Columns
+* Bootstrap 12-column Grid System
+* Mobile-first design concept
+* Utility classes for spacing and text formatting
+
+### Task
+
+Build a responsive portfolio using the Bootstrap grid and utility classes.
+
+### Next Up
+
+Explore Bootstrap components such as Carousel and Progress Bars.
+
+---
+
+## Day 8 – Bootstrap Components & Revision
+
+**Date:** 06/11/2025
+**Topic:** Bootstrap Components & Responsive Design Revision
+
+### What I Learned
+
+* Revised CSS Selectors and Layouts
+* Used Bootstrap Carousel and Progress Bar
+* Improved responsive layouts
+* Applied utility classes for margins, padding, and display
+* Combined CSS and Bootstrap for a modern UI
+
+### Task
+
+Build a responsive portfolio with a Carousel and Progress Bar to showcase skills.
+
+### Next Up
+
+Start JavaScript — adding interactivity and logic to web pages.
+
+---
+
+
+## Reflection
+
+> “Every line of code brings me one step closer to creating something meaningful.
+> This journey isn’t about perfection — it’s about progress.”
+

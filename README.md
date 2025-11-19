@@ -182,8 +182,93 @@ Begin learning **JavaScript** to bring interactivity and logical behavior to web
 
 ---
 
+## Day 9 – Introduction to JavaScript
+
+**Date:** 10/11/2025
+**Topic:** Introduction to JavaScript, Types, Operators, Logical Operators, Math, and Control Structures
+
+### What I Learned
+
+* Introduction to JavaScript and how it adds interactivity to web pages
+* JavaScript Data Types: String, Number, Boolean, Object, Undefined, and Null
+* Operators: Arithmetic, Assignment, Comparison, and Logical
+* Math Object: Practiced using `Math.round()`, `Math.floor()`, and `Math.random()`
+* Control Structures: `if`, `else if`, `else`, `switch`, `for`, `while`, and `do-while`
+* Logical Operations: Used `&&`, `||`, and `!` to handle logic efficiently
+
+### Task
+
+Write a JavaScript program that takes two numbers as input and performs:
+
+* Addition, Subtraction, Multiplication, and Division
+* Compares if the first number is greater than the second
+* Displays results dynamically using `alert()` or `console.log()`
+
+---
+
+## Day 10 – JavaScript Scope, Events, Strings, and Arrays
+
+**Date:** 12/11/2025
+**Topic:** JavaScript Scope, Events, Strings, and Arrays
+
+### What I Learned
+
+* Scope: Understood variable visibility using `var`, `let`, and `const`
+* Events: Learned event handling using `onclick`, `onchange`, and `onmouseover`
+* Strings: Explored methods like `concat()`, `toUpperCase()`, `toLowerCase()`, `slice()`, and `substring()`
+* Math Operations: Used mathematical functions and expressions in scripts
+* Arrays: Created and manipulated arrays using built-in methods
+
+### Task
+
+Practice JavaScript programs to:
+
+* Demonstrate different variable scopes
+* Handle button click events dynamically
+* Perform string manipulations (uppercase, lowercase, slicing)
+* Create and update arrays with various operations
+
+---
+
+## Day 11 – JavaScript ES Features, DOM, Hoisting, Functions, and Arrow Functions
+
+**Date:** 13/11/2025
+**Topic:** JavaScript ES Features — DOM, Hoisting, Functions, and Arrow Functions
+
+### What I Learned
+
+* DOM: Understood how to access and manipulate HTML elements using `getElementById` and `querySelector`
+* Hoisting: Learned how JavaScript moves declarations to the top of their scope
+* Functions: Practiced writing regular functions
+* Arrow Functions: Learned modern and cleaner syntax for writing functions
+* Built two DOM-based projects:
+
+  * Counter Application
+  * Image Resize Application
+
+### Task
+
+Recreate both projects covered in class:
+
+* Counter App using DOM methods and event listeners
+* Image Resize App using width and height manipulation
+* Add clear comments in the JavaScript file explaining each step
+
+---
+
+## Summary of My Journey (So Far)
+
+| Skill             | Level                    | Tools Used                   |
+| ----------------- | ------------------------ | ---------------------------- |
+| HTML              | Beginner to Intermediate | VS Code, Live Server         |
+| CSS               | Intermediate             | Chrome DevTools              |
+| Bootstrap         | Beginner                 | Bootstrap 5                  |
+| JavaScript        | Beginner                 | Browser Console, VS Code     |
+| Responsive Design | Learning                 | Media Queries, Flexbox, Grid |
+
 ## Reflection
 
-> “Web development isn’t about reaching a finish line — it’s about continuous improvement.
-> Each day of practice builds confidence, creativity, and clarity.”
+Every day of coding brings a better understanding of how the web works.
+This journey is not about being perfect but about improving with every concept learned.
+
 
